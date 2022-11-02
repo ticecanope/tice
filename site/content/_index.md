@@ -1,6 +1,6 @@
 ---
 title: TICE
-subtitle: Support sustainable farming while enjoying a cup, with lolo !
+subtitle: Support sustainable farming while enjoying a cup, with lili !
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
